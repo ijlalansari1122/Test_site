@@ -1,6 +1,6 @@
 ---
-title: Neiderho Offer
 layout: post
+title: Neiderho Offer
 description: "I worked on two projects, and learned from the best traders about macroeconomics, the market, creativity and team work."
 # image: TBD
 # nav-menu: true
