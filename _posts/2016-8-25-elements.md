@@ -1,9 +1,8 @@
 
 ---
-layout: Elements
+layout: Post
 title: Elements
-description: Ipsum dolor sit amet
-# image: assets/images/sher.jpg
+description: Elements
 ---
 
 
