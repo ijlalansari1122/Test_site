@@ -1,9 +1,8 @@
 ---
  title: Designing and integrating a C4I system
 layout: post
-# title: Bird
 description: 'My experience designing a C4I system to protect Mexican civilians'
-image: assets/images/birdHeli.jpg
+# image: assets/images/birdHeli.jpg
 # nav-menu: true
 ---
 
