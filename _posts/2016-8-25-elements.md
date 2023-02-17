@@ -1,5 +1,3 @@
-<!-- keep this as an example for layouts and design, therefore commented -->
-
 
 ---
 layout: post
