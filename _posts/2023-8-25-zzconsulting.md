@@ -2,7 +2,7 @@
 title: Consulting
 layout: post
 description: 'All things product.'
-image: TBD
+# image: TBD
 # nav-menu: true
 ---
 
