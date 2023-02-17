@@ -14,7 +14,7 @@ description: Is it worth attending a top-notch college? Would it pay back in th
 		<div class="content">
 			<div class="inner">
 					<header class="major">
-			<h2>Education VS Income</h2>
+			<div>Education VS Income</div>
 		</header>
 
 I wanted to create a simple chart that will help folks like my-few-years-younger-self make good college decisions. Specifically, I wanted to present data that will help teenagers understand whether the industry-wide benchmark, low acceptance rate, really is the right statistic to take into consideration when considering alternatives.
