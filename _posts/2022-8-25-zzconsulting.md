@@ -9,11 +9,7 @@ description: 'All things product.'
 <!-- Content -->
 <div id="content">Product Strategy & UX</div>
 I love working with early-stage startups in various capacities as a consultant. My unique global experience with product and data allows me to help startups that I love ask the right questions to grow faster and better.
-
-
-
-
-<br><br><br>
+Get in touch regarding a consulting package via email/Linkedin.
 
 Broad areas I can help with are listed below:
 1. **Product strategy** (product scoping, setting and tracking the right analytics, developing product principles).
