@@ -1,11 +1,11 @@
 
 ---
-layout: post
+layout: Elements
 title: Elements
-description: Elememts
-# image: /assets/images/150831_Minerva_BobMiller_1080.jpeg
-# nav-menu: true
+description: Ipsum dolor sit amet
+# image: assets/images/sher.jpg
 ---
+
 
 <!-- Main -->
 <div id="main" class="alt">
