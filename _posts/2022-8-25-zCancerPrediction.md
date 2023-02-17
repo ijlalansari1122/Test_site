@@ -13,7 +13,7 @@ description: "Predicting Breast Cancer with Binary Classification"
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Predicting Breast Cancer - Binary Classification </h2>
+			<div>Predicting Breast Cancer - Binary Classification </div>
 		</header>
 I chose to work with the Wisconsin breast cancer dataset. The question at hand is:
 <br>
