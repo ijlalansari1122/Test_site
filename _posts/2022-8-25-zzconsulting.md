@@ -13,7 +13,7 @@ I love working with early-stage startups in various capacities as a consultant. 
 
 
 
-
+<br><br><br>
 
 Broad areas I can help with are listed below:
 1. **Product strategy** (product scoping, setting and tracking the right analytics, developing product principles).
