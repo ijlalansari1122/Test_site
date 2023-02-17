@@ -6,8 +6,6 @@ description: "I worked on two projects, and learned from the best traders about 
 # nav-menu: true
 ---
 
-
-<h2>2016 </h2>
 <i>Originally Posted on 31-08-2016.</i>
 
 For two and a half months I was part of the trading team. I worked on two projects, and learned from the best traders about macroeconomics, the market, creativity and team work.
