@@ -1,12 +1,13 @@
 <!-- keep this as an example for layouts and design, therefore commented -->
 
 
-<!-- ---
+---
 layout: post
 title: Elements
-image: /assets/images/150831_Minerva_BobMiller_1080.jpeg
+description: Elememts
+# image: /assets/images/150831_Minerva_BobMiller_1080.jpeg
 # nav-menu: true
---- -->
+---
 
 <!-- Main -->
 <div id="main" class="alt">
