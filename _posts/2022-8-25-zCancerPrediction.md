@@ -13,11 +13,11 @@ description: "Predicting Breast Cancer with Binary Classification"
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<div>Predicting Breast Cancer - Binary Classification </div>
+			<h2>Predicting Breast Cancer - Binary Classification </h2>
 		</header>
 I chose to work with the Wisconsin breast cancer dataset. The question at hand is:
 <br>
-<i>Which characteristics can help accurately predict whether a tumor is a benign one or malignant?</i>
+<i>Which characteristics can help accurately predict whether a tumor is a benign one or malignant?</i> 
 <br>
 <br>
 

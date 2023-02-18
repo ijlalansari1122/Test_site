@@ -2,10 +2,12 @@
 layout: post
 title: Neiderho Offer
 description: "I worked on two projects, and learned from the best traders about macroeconomics, the market, creativity and team work."
-# image: TBD
+image: assets/images/1.png
 # nav-menu: true
 ---
 
+
+<h2>2016 </h2>
 <i>Originally Posted on 31-08-2016.</i>
 
 For two and a half months I was part of the trading team. I worked on two projects, and learned from the best traders about macroeconomics, the market, creativity and team work.
@@ -25,8 +27,8 @@ Creativity - as a process:
 Ideation can take place only in an atmosphere that fosters it. As Roy told me - many times when someone say “we tried this, it didn’t work” , the environment must be such that further questioning is legitimate. Have we tried exactly this idea? what exactly did we try? I also realized that there is always a gap between ideation phase and execution, i.e. a situations where an idea is suggested, encountered with positive feedback - “actually, that’s a good question” or “that’s an interesting idea”. Later the conversation dies out and sometimes nothing is done.
 
 Trading:
-The fundamental problem of marketing a hedge-fund:
-There is a fundamental problem in marketing a hedge fund, or any service that aims to provide benefit during a rainy day. Since the human brain is designed to pursue instant gratification, investors have to resist this temptation in order to make a decision to put money in a different instrument that yields better than others only during specific times.
+The fundamental problem of marketing a hedge-fund: 
+There is a fundamental problem in marketing a hedge fund, or any service that aims to provide benefit during a rainy day. Since the human brain is designed to pursue instant gratification, investors have to resist this temptation in order to make a decision to put money in a different instrument that yields better than others only during specific times. 
 
 As Roy mentioned - “just like in Chicago, where the woman hates when her husband drops his wet towel on the floor over and over again. She can suffer the few times he is cheating on her, but she cannot take the repetitive bad habit” - investors would need a lot of patience in order to see the gains, while during most of the time, sticking to a hedge fund, or any financial-decision is hard to follow through.
 
@@ -39,22 +41,22 @@ It is incredible, how people can see patterns in a charts, and create prediction
 Managerial attitude in a challenging environment:
 Trust the employees in bad times: I saw that giving the employees the impression that you fully trust them is within the essence of effective management. Similarly, I saw that oftentimes the employees don’t need to be told what to do.
 
-“I don’t know”:
+“I don’t know”: 
 The smartest people in our team, answered in this way to many of my questions. It seemed to me as it comes from confidence in their skills and humility. It could be a sign of transparency, competency and professionalism.
 
 Interns:
 One day, when I manage a team, we would regularly have an intern. A fresh perspective worths the effort invested in training him, given that he shares his insights.
 
-Minerva:
-Relevance of curriculum: I was able to connect the dots that I’ve collected during the year and apply some of the concepts I’ve learned. Generally, it seems to me that the concepts we focus on, and creative application of them are a platform for potentially very successful applications in “real situations”.
+Minerva: 
+Relevance of curriculum: I was able to connect the dots that I’ve collected during the year and apply some of the concepts I’ve learned. Generally, it seems to me that the concepts we focus on, and creative application of them are a platform for potentially very successful applications in “real situations”. 
 
 “Extra Take-homes” based on my time in NYC:
-Columbia University:
-As in any other big university, professors are usually nice, and they don’t know the students in person. This allowed me to attend classes, whichever I chose, go to office hours which are invaluable, submit homework, and even take mid-terms just for extra practice!
+Columbia University: 
+As in any other big university, professors are usually nice, and they don’t know the students in person. This allowed me to attend classes, whichever I chose, go to office hours which are invaluable, submit homework, and even take mid-terms just for extra practice! 
 
-“P-SET”, sets of exercises that students submit between classes are unsurprisingly a good way to learn since the idea follows deliberate practice, ​​interleaved repetitive practice and active learning (solving VS watching someone else solving).
+“P-SET”, sets of exercises that students submit between classes are unsurprisingly a good way to learn since the idea follows deliberate practice, ​​interleaved repetitive practice and active learning (solving VS watching someone else solving). 
 
-Active learning - some professors understand the merits of active learning: at stats class the professor would pose a question and ask the students to work on it together, just like in breakout groups.
+Active learning - some professors understand the merits of active learning: at stats class the professor would pose a question and ask the students to work on it together, just like in breakout groups. 
 
 Apartments in NYC - there’s no point in trying to find one remotely. Next time, it is best to plan to spend 2-3 days while arriving at the city.
 

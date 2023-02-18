@@ -2,16 +2,15 @@
 layout: post
 title: Consulting
 description: 'All things product.'
-# image: TBD
-# nav-menu: true
+image: TBD
+nav-menu: true
 ---
 
 <!-- Content -->
-<div id="content">Product Strategy & UX</div>
+<h3 id="content">Product Strategy & UX</h3>
 I love working with early-stage startups in various capacities as a consultant. My unique global experience with product and data allows me to help startups that I love ask the right questions to grow faster and better.
-Get in touch regarding a consulting package via email/Linkedin.
 
-Broad areas I can help with are listed below:
+Broad areas I can help with are listed below:  
 1. **Product strategy** (product scoping, setting and tracking the right analytics, developing product principles).
 2. **Growth strategy** (new user onboarding, landing pages, creating a GTM strategy).
 3. **Developing a product roadmap** (and setting metrics for your team to make your CFO happy again).
