@@ -73,8 +73,7 @@ initViz();
 				</header>
 				<p>FuzzyWuzzy includes several versions of FuzzyMatch algos, all of which I tried.  With some trial and error, I ended up choosing a combination of fuzz.ratio  and a threshold score (90). The relevant snippet of code is attached here.</p>
 				<a href="https://github.com/oba2311/HigherEdu_Project" class="image">
-				<!-- ![]({{page.image | relative_url }}) -->
-			<img src="{% https://ijlalansari1122.github.io/Test_site/assets/images/fuzzy1.png %}" alt="fuzzymatch" data-position="right" />
+			<img src="https://ijlalansari1122.github.io/Test_site/assets/images/fuzzy1.png " alt="fuzzymatch" data-position="right" />
 		</a>
 				<p>
 				I know that one list contains only 280 items, while the other list was 960 items,  I knew that if I got a match for more than 280 items, then the sinceI started with fuzz.token_set_ratio - algo overfitted.  Starting with 556 matches I incrementally made progress.  After consideration of other algos that are based on phonetic similarity rather than graphic, I consulted a friend who suggested cleaning and tokenizing the data further before giving up on fuzzy. I ended up sticking to fuzzy and spending more time cleaning the data.
