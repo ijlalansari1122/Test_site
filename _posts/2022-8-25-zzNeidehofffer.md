@@ -9,7 +9,7 @@ image: assets/images/1.png
 
 <h2>2016 </h2>
 <i>Originally Posted on 31-08-2016.</i>
-
+<p>
 For two and a half months I was part of the trading team. I worked on two projects, and learned from the best traders about macroeconomics, the market, creativity and team work.
 
 During my time at Niederhoffer I prepared for and took the Series 3 exam - an exam that checks the understanding of the fundamentals of trading, macro economics and the American regulations of the futures market. Secondly, I created a program in python that finds discrepancies in execution of trading orders (between executing and clearing brokers) and prints them on a webpage. I documented my progress and the knowledge I gained so the next intern could use it should he choose to do so.
@@ -61,3 +61,4 @@ Active learning - some professors understand the merits of active learning: at s
 Apartments in NYC - there’s no point in trying to find one remotely. Next time, it is best to plan to spend 2-3 days while arriving at the city.
 
 There is a reason that people don’t cook in NYC. It seems like the time flies and the time spent is sometimes better invested in studying and working since street food is not too expensive, and can even be healthy, to some degree.
+</p>

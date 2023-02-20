@@ -43,7 +43,7 @@ Since this is a case-study classic dataset I didn’t need to transform any vari
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/logit.png %}" alt="" data-position="top center" />
+			<img src="https://ijlalansari1122.github.io/Test_site/assets/images/logit.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -57,7 +57,7 @@ Since this is a case-study classic dataset I didn’t need to transform any vari
 
 <section>
 	<a class="image">
-		<img src="{% link assets/images/probit.png %}" alt="" data-position="25% 25%" />
+		<img src="https://ijlalansari1122.github.io/Test_site/assets/images/probit.png" alt="" data-position="25% 25%" />
 	</a>
 	<div class="content">
 		<div class="inner">
@@ -71,7 +71,7 @@ Since this is a case-study classic dataset I didn’t need to transform any vari
 
 <section>
 		<a class="image">
-			<img src="{% link assets/images/1.png %}" alt="" data-position="top center" />
+			<img src="https://ijlalansari1122.github.io/Test_site/assets/images/1.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
