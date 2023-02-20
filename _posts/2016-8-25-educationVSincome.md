@@ -2,7 +2,7 @@
 layout: post
 title: Ivy-League education VS income - web scraping and correlations
 description: Is it worth attending a top-notch college? Would it pay back in the future if you get in?
-# image: assets/images/tableau.png
+image: assets/images/tableau.png
 # nav-menu: true
 ---
 <!-- Main -->
@@ -73,7 +73,7 @@ initViz();
 				</header>
 				<p>FuzzyWuzzy includes several versions of FuzzyMatch algos, all of which I tried.  With some trial and error, I ended up choosing a combination of fuzz.ratio  and a threshold score (90). The relevant snippet of code is attached here.</p>
 				<a href="https://github.com/oba2311/HigherEdu_Project" class="image">
-				![fuzzymatch]({{ site.baseurl }}/assets/images/fuzzy1.png)
+				![]({{page.image | relative_url }})
 			<!-- <img src="{% link assets/images/fuzzy1.png %}" alt="fuzzymatch" data-position="right" /> -->
 		</a>
 				<p>
