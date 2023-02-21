@@ -2,8 +2,8 @@
 layout: post
 title: Predicting Breast Cancer
 description: "Predicting Breast Cancer with Binary Classification"
-# image: assets/images/1.png
-# nav-menu: true
+image: assets/images/1.png
+nav-menu: true
 ---
 
 <!-- Main -->
